@@ -1,7 +1,7 @@
 
 # IS YOUR BIRTHDAY LUCKY ?
 
-A brief description of what this project does and who it's for get the that our birthday is lucky or not .
+This project helps us to  get the that our birthday is lucky or not .
 
 When we give our birth date and our lucky number and we click on search on result then we get to know our birthday is lucky or not .
 
