@@ -8,6 +8,12 @@ When we give our birth date and our lucky number and we click on search on resul
 I have made this for Neog camp Level Zero Mark 11 . With the help of Tanay sir .
 
 
+## Acknowledgemet
+
+ - [Live Project](https://is-your-birthday-lucky-mark11-neog-camp.netlify.app/)
+ - [My Portfolio](https://ayush-portfolio-neog-camp.netlify.app/projects.html) 
+
+
 ## Screenshots
 
 ### FIRST PAGE
